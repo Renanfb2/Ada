@@ -16,3 +16,6 @@ console.log(soma)
 
 soma = numero3 + "123abc" // idem ao anterior, porém trata o valor null como uma string e não como zero
 console.log(soma)
+
+soma = numero2 - "ab" // retorna o valor NaN (Not a Number), pois não consegue lidar com aquela operação
+console.log(soma) 

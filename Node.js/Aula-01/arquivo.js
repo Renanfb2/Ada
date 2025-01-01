@@ -12,4 +12,3 @@ const EstaChovendo = false // tipo bolleano
 
 console.log(`O clima é chuvoso? ${EstaChovendo}`)
 
-console.log(teste)
