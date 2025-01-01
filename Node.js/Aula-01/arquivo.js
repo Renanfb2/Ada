@@ -1,3 +1,9 @@
-const numero = 20
+let numero = 20
 console.log(numero)
-console.log("Oi")
+
+numero = 7
+console.log(numero)
+
+const nome = "Renan"
+
+console.log(`Oi, ${nome}!`)
